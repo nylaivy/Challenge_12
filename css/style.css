@@ -1,0 +1,17 @@
+body {
+    color: #000000;
+    background-color: rgb(244, 226, 248);
+    font-family: "Monaco",monospace;
+  }
+  
+
+.jumbotron {
+    background-image: url("jumboImage.png");
+    background-size: 100% 100%;
+    text-align: center;
+    p {
+        color: #ffffff;
+      
+      };
+   
+  }
